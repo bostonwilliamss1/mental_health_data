@@ -6,9 +6,7 @@ website: https://www.kaggle.com/datasets/shashwatwork/depression-and-mental-heal
 
 I picked two questions that I get answered by this data set. One is 'Is there a correlation between the amount of days people stay indoors to growing stress levels?' The other one is 'Is there a significant difference in reported frustration during the first two weeks of quarantine (Quarantine_Frustration) between different age groups or occupations?' I picked this question because I was curious if people who typically had jobs that dealt with people often and were outside the house, would have more struggles dealing with the first 2 weeks of quarantine. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=zKAD5I4wHh4)
 
 # Data Analysis Results
 Is there a correlation between the amount of days people stay indoors to growing stress levels?
